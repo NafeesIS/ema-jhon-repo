@@ -1,0 +1,15 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.nav a{
+    color: white;
+    padding: 10px;
+}
+.nav a:hover{
+    color: orange;
+}
